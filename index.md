@@ -2,6 +2,10 @@
 
 Welcome to the support page for TapTopic. We've designed our AAC (Augmentative and Alternative Communication) app to help users improve communication and lexical diversity through the use of words and symbols.
 
+If your query or issue isn't covered in the FAQs, or if you have any other concerns regarding TapTopic, please feel free to reach out to us directly. 
+
+You can contact us at <em>definitivesoftwarellc@outlook.com</em> or by creating a new issue in our [GitHub repository](https://github.com/definitivesoftware/taptopic-support/issues).
+
 ## Frequently Asked Questions (FAQs)
 
 ### How do I use TapTopic?
@@ -42,12 +46,15 @@ Upon hitting "Save", your word will be added to the Word Category View on the To
 You can designate a word as a favorite by toggling the on/off switch. A favorite word can be pre-loaded onto new Topics using the "Import Favorites" button in the edit mode, saving you time if you use a word frequently. The assigned image for the word will be retained.
 
 #### Pronounce As
+
 You can customize how a word is pronounced by the text-to-speech voice by entering a phonetic representation of the word. Each time this word is selected, it will use the "Pronounce As" option instead. If "Pronounce As" is left blank, the system will default to the standard pronunciation of the word.
 
 #### Word Background Color
+
 You can change the word's background color in the word categories view by selecting a color from the provided palette.
 
 #### Editing a Word
+
 When you're in the Word Category View in edit mode, you can long-press (hold down) the word you want to edit to display a context menu. From here, you can modify the word's category and favorite status or delete the word. If you want to change the word itself or its image, we recommend deleting the word and adding it again.
 
 ![Editing a Word](/images/EditWord.png)
@@ -55,12 +62,13 @@ When you're in the Word Category View in edit mode, you can long-press (hold dow
 ## TapTopic offers three distinct types of displays to enhance user interaction and understanding:
 
 ### Text-To-Speech Display
+
 To construct sentences and enhance word recognition, simply touch a word. It will appear in the Selected Words view. Press the speak icon on the right side to pronounce the word or phrase. To delete a word, press the red back arrow on the left side of the Selected Words view. If you need to clear all words, hold down the red back arrow button until the context-menu appears with the "Clear All Words" option.
 
 ![Text-To-Speech Display](/images/Selected%20Words%20View.png)
 
-
 ### Text-To-Symbol Display
+
 The Text-To-Symbol display enables users to enter actual words one letter at a time to build a syntactic structure. The system will automatically load the default image for the word entered. 
 
 By toggling the "Type" option on the upper left-side of the Topic Display, the Selected Words view will expand to allow you to enter a word. Type a word and press enter - the corresponding image will display below. You can even enter full sentences, and the appropriate image will be displayed for each word in the correct sequence! If a word you type already exists for the Topic, the app will use that word and image, along with your pronunciation preferences.
@@ -70,6 +78,7 @@ Press "Clear" to erase your words and start anew. Press the speak symbol to hear
 ![Text-To-Symbol Display](/images/TextToSymbolView.png)
 
 ### Topic Image Display
+
 The Topic Image display lets you associate words with an image representation. For instance, you can upload a picture and encourage the user to describe what they see, facilitating the development of descriptive language skills. 
 
 You can even combine the Text-To-Symbol display and the Topic Image display to allow the user to type the words associated with your image. 
@@ -129,8 +138,6 @@ Use the "Import Topic from File" button to load a topic from a file. This is use
 
 ## Contact Us
 
-If your query or issue isn't covered in the FAQs, or if you have any other concerns regarding TapTopic, please feel free to reach out to us directly. 
-
-You can contact us at definitivesoftwarellc@outlook.com or by creating a new issue in our [GitHub repository](https://github.com/definitivesoftware/taptopic-support/issues).
+You can contact us at <em>definitivesoftwarellc@outlook.com</em> or by creating a new issue in our [GitHub repository](https://github.com/definitivesoftware/taptopic-support/issues).
 
 We appreciate your support for TapTopic, and we're committed to ensuring your experience with our app is as smooth and rewarding as possible!
