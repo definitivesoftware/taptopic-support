@@ -4,7 +4,7 @@ Welcome to the support page for TapTopic. We've designed our AAC (Augmentative a
 
 If your query or issue isn't covered in the FAQs, or if you have any other concerns regarding TapTopic, please feel free to reach out to us directly. 
 
-You can contact us at <em>definitivesoftwarellc@outlook.com</em> or by creating a new issue in our [GitHub repository](https://github.com/definitivesoftware/taptopic-support/issues).
+You can contact us at <mailto:definitivesoftwarellc@outlook.com> or by creating a new issue in our [GitHub repository](https://github.com/definitivesoftware/taptopic-support/issues).
 
 ## Frequently Asked Questions (FAQs)
 
