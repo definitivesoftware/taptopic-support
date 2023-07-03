@@ -24,6 +24,8 @@ You can change the Folder assignment at any time. The "General" Folder, which is
 ### How do I create a Folder?
 To create a new Folder, click on the Folder plus icon, found above the word Topics. This will open the "Add Folder" view, where you can provide a name for your Folder (e.g., School, Home, Play).
 
+![Topic Image Display](/images/AddFolder.png)
+
 ### How do I enter a new Topic Display item?
 Once you've created a Folder and a Topic, it's a good idea to close the Topics navigation (by swiping left or clicking the leftmost icon) to view the full Topic screen. 
 
@@ -33,6 +35,8 @@ At this point, you'll notice your Topic displayed at the top - but it's empty! N
 When you enter a word, TapTopic attempts to guess the correct category for the word. You can manually change this if required. Please ensure you enter only one word at a time, not a phrase. As you type the letters of a word, the app makes an API call to ARASAAC to search for a matching symbol. You can select one of these symbols, which will then be highlighted in its box. Alternatively, you can select "No Image" if you don't want a symbol to show for this particular word. If no suitable symbol is available, you can search for images from Google Images or upload your own image by clicking "Use your own image".
 
 Upon hitting "Save", your word will be added to the Word Category View on the Topic Display. You can see it after you close the "Add Word" view by clicking "Close" in the top left corner of the modal.
+
+![Topic Image Display](/images/Add%20Word%20View.png)
 
 #### Favorites
 You can designate a word as a favorite by toggling the on/off switch. A favorite word can be pre-loaded onto new Topics using the "Import Favorites" button in the edit mode, saving you time if you use a word frequently. The assigned image for the word will be retained.
@@ -46,10 +50,15 @@ You can change the word's background color in the word categories view by select
 #### Editing a Word
 When you're in the Word Category View in edit mode, you can long-press (hold down) the word you want to edit to display a context menu. From here, you can modify the word's category and favorite status or delete the word. If you want to change the word itself or its image, we recommend deleting the word and adding it again.
 
+![Editing a Word](/images/EditWord.png)
+
 ## TapTopic offers three distinct types of displays to enhance user interaction and understanding:
 
 ### Text-To-Speech Display
 To construct sentences and enhance word recognition, simply touch a word. It will appear in the Selected Words view. Press the speak icon on the right side to pronounce the word or phrase. To delete a word, press the red back arrow on the left side of the Selected Words view. If you need to clear all words, hold down the red back arrow button until the context-menu appears with the "Clear All Words" option.
+
+![Text-To-Speech Display](/images/Selected%20Words%20View.png)
+
 
 ### Text-To-Symbol Display
 The Text-To-Symbol display enables users to enter actual words one letter at a time to build a syntactic structure. The system will automatically load the default image for the word entered. 
@@ -57,6 +66,8 @@ The Text-To-Symbol display enables users to enter actual words one letter at a t
 By toggling the "Type" option on the upper left-side of the Topic Display, the Selected Words view will expand to allow you to enter a word. Type a word and press enter - the corresponding image will display below. You can even enter full sentences, and the appropriate image will be displayed for each word in the correct sequence! If a word you type already exists for the Topic, the app will use that word and image, along with your pronunciation preferences.
 
 Press "Clear" to erase your words and start anew. Press the speak symbol to hear the words/phrases. When finished, hit the toggle again for the Type option to collapse it.
+
+![Text-To-Symbol Display](/images/TextToSymbolView.png)
 
 ### Topic Image Display
 The Topic Image display lets you associate words with an image representation. For instance, you can upload a picture and encourage the user to describe what they see, facilitating the development of descriptive language skills. 
@@ -68,6 +79,53 @@ You can add multiple images and swipe through them easily.
 When adding a Topic Image, you must provide a word or sentence description for it to save properly. You can then toggle "Show Phrase" while in Topic Image mode to display the word/phrase above the image. This word/phrase is usually what you want the user to type in or select from the word category view. It is hidden by default.
 
 To delete a Topic Image, long press (hold down) until you see the context menu with the option to delete. Deleting the Topic Image will remove it from the list of Topic Images for the selected Topic.
+
+![Topic Image Display](/images/TopicImageDisplay.png)
+
+## Settings
+In TapTopic, you can adjust various settings to personalize your user experience. Here's a rundown of what you can modify:
+
+![Settings](/images/Settings.png)
+
+### Images
+
+Toggle the "Show Images" setting to decide whether or not to display images.
+
+### Speak on Tap
+
+Enable or disable the "Speak on Tap" option. When enabled, the app will pronounce the word or phrase when you tap it.
+
+### Speech Rate
+
+Use the "Speech Rate" slider to control the speed of the text-to-speech functionality. You can test the rate with the text "Tap Topic".
+
+### Font
+
+You can adjust the "Font Size" slider to change the font size throughout the app.
+
+### Category Labels
+
+Toggle the "Show All Category Labels" option to choose whether to display all category labels.
+
+### Category Visibility
+
+You can decide the visibility of each category with a set of toggles. Each category in the app has its own toggle.
+
+### Save Settings as Default
+
+Click the "Save as Default" button to save your current settings as the default for future sessions.
+
+### Save Topic to File
+
+Click the "Save Topic to File" button to save the current topic to a file. This option is useful for backing up and sharing your topics.
+
+![Topic Image Display](/images/Save%20Topic.png)
+
+### Import Topic
+
+Use the "Import Topic from File" button to load a topic from a file. This is useful for loading topics that you've previously saved or have been shared with you. 
+
+
 
 ## Contact Us
 
